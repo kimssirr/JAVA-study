@@ -1,3 +1,5 @@
+package 파트5;
+
 public class Method {
     public static void main(String[] args) {
 

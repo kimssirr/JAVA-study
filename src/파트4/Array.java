@@ -1,3 +1,5 @@
+package 파트4;
+
 // for each 사용 배열 출력
 public class Array {
     public static void main(String[] args) {
