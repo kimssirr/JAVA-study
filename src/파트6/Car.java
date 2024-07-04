@@ -18,4 +18,8 @@ public class Car{
     public Car() {
         this("이름없음", 0);
     }
+
+    public void run() {
+        System.out.println("Car의 run 메소드");
+    }
 }
