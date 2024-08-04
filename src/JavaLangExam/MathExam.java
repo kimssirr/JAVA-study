@@ -1,4 +1,4 @@
-package 중급_파트1;
+package JavaLangExam;
 
 public class MathExam {
     public static void main(String[] args) {

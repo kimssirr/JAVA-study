@@ -1,4 +1,4 @@
-package 중급_파트1;
+package JavaLangExam;
 //Object와 오버라이딩
 
 import java.util.Objects;
